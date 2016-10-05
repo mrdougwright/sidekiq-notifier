@@ -1,3 +1,5 @@
+# WIP
+
 # Sidekiq::Notifier
 
 Sidekiq Notifier is a Sidekiq plugin that sends Slack (or other) notifications when a job fails.
